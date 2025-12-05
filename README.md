@@ -5,3 +5,7 @@
 Halaman detail
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8630ebba-52f9-45e8-b15d-ad0a71448f6c" />
 
+
+validasi hapus
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d714012-29dc-44a4-9b8b-b97c24929de6" />
+
