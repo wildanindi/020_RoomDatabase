@@ -9,3 +9,5 @@ Halaman detail
 validasi hapus
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d714012-29dc-44a4-9b8b-b97c24929de6" />
 
+edit screen
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea5b7be0-1a45-4ba4-86a4-fc6132dadc86" />
